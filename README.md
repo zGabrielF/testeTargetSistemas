@@ -1,0 +1,1 @@
+Desafio de estágio solicitado pela Target Sistemas: escrever um código para verificar se um número pertence à sequência de Fibonacci e outro código para verificar a existência da letra 'a' na string digitada."
